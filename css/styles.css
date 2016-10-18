@@ -1,0 +1,30 @@
+.white-background {
+  background-color: #fff;
+}
+
+.light-grey-background {
+  background-color: lightgrey;
+}
+
+.dark-grey-background {
+  background-color: #535860;
+  color: white;
+}
+
+.bodytext {
+  margin-top: 30px;
+}
+
+.btn#dark-grey {
+  background-color: #535860;
+  color: white;
+}
+
+.first-paragraph {
+  border: 2px solid red;
+  background-color: yellow;
+}
+
+.second-paragraph {
+  color: black;
+}
